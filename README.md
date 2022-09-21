@@ -21,3 +21,9 @@ app.run(port=5000)
 cd~/directory where file is saved/
 
 python "file name"
+
+-------------------------
+
+post:- used to recieve data.
+
+Get :- used to send data back.
