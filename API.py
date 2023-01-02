@@ -4,4 +4,5 @@ app=Flask(__name__)
 def home():
     return "Hey, This is Prateek!"
 
-app.run(port=5000)
+if __name__ == '__main__':
+    app.run(port=5000)
